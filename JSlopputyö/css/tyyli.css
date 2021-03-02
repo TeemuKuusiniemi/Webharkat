@@ -1,0 +1,37 @@
+#Ylädivi {
+	background-color: red;
+  width: 500px;
+  border: 25px red;
+  padding: 50px;
+  margin: 25px;
+  height: 150px;
+
+}
+#vasendivi {
+	background-color: red;
+  width: 500px;
+  border: 25px red;
+  padding: 50px;
+  margin: 25px;
+  height: 300px;
+
+}
+#oikeadivi {
+	background-color: red;
+  width: 500px;
+  border: 25px red;
+  padding: 50px;
+  margin: 25px;
+  height: 300px;
+
+}
+
+#kuva{
+	width: 1px;
+	height: 1px;
+}
+
+.divi{
+	background-color: blue;
+}
+
