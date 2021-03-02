@@ -1,0 +1,105 @@
+.perusblokki{
+   			padding: 30px;
+   			border-radius: 20px;
+   			margin: -6px;
+   		}
+
+   		.keskiteksti{
+   			    text-align: center;
+            color: #FFF;
+
+            
+      
+   			
+
+   		}
+
+   		.container1{
+   			background-image: url(../img/blurri.jpg);
+            padding: 60px;
+            text-align: center;
+
+            
+   			
+   			
+
+
+   		}
+
+   		.nappi{
+   		     background-color: #800080;
+              padding: 14px 25px;
+              color: #FFF;
+              text-align: center;
+              text-decoration: none;
+
+
+
+
+   		}
+
+         .peruspalikka div{
+            padding: 5px;
+            border-radius: 10px;
+            margin: 10px;
+            color: #FFF;
+
+         
+         }
+
+         .container2{
+            background-color: #800080;
+
+         }
+
+         
+
+            html {
+               scroll-behavior: smooth;
+            }
+
+            a{
+              color: grey;
+              text-decoration: none;
+            }
+
+            
+
+            
+
+            .container3{
+              width: 20%;
+
+            }
+
+            
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
+
+          
+            
+
+
+        
+
+
+
+
+
+                      
