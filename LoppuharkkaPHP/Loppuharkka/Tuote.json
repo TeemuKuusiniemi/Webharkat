@@ -1,0 +1,112 @@
+{
+	"Tuote": [
+
+          {
+          	"Id": 1,
+          	"Nimi": "Hiiri",
+          	"Kategoria": "Tietokonetarvikkeet",
+          	"Hinta": 18.10,
+          	"Paino": 0.098,
+          	"URL": "https://www.gigantti.fi/image/dv_web_D180001002212872/LTM185RED/logitech-langaton-hiiri-m185-punainen.jpg?$prod_all4one$"
+          },
+
+          {
+          	"Id": 2,
+          	"Nimi": "Näppäimistö",
+          	"Kategoria": "Tietokonetarvikkeet",
+          	"Hinta": 50.30,
+          	"Paino": 0.5,
+          	"URL":"https://cdn.verk.net/576/images/24/2_114004-491x280.jpg"
+          	
+
+          },
+
+          {
+          	"Id": 3,
+          	"Nimi": "Näyttö",
+          	"Kategoria": "Tietokonetarvikkeet",
+          	"Hinta": 199,
+          	"Paino": 1.5,
+          	"URL":"https://cdn.verk.net/images/17/2_335855-560x480.jpeg"
+          	
+
+          },
+
+          {
+          	"Id": 4,
+          	"Nimi": "Leivänpaahdin",
+          	"Kategoria": "Pienet kodinkoneet",
+          	"Hinta": 40.90,
+          	"Paino": 0.3,
+          	"URL":"https://res.cloudinary.com/tokmanni/image/upload/c_pad,b_white,f_auto,h_800,w_800/d_default.png/8710103709480.jpg"
+          	
+
+          },
+
+          {
+          	"Id": 5,
+          	"Nimi": "Mikroaaltouuni",
+          	"Kategoria": "Pienet kodinkoneet",
+          	"Hinta": 130.60,
+          	"Paino": 6.5,
+          	"URL":"https://res.cloudinary.com/tokmanni/image/upload/c_pad,b_white,f_auto,h_800,w_800/d_default.png/6438114888971.jpg"
+          	
+
+          },
+
+          {
+          	"Id": 6,
+          	"Nimi": "Vedenkeitin",
+          	"Kategoria": "Pienet kodinkoneet",
+          	"Hinta": 19.90,
+          	"Paino": 0.8,
+          	"URL":"https://pc.vertaa.fi/500x500/141913740.jpg"
+          	
+
+          },
+
+          {
+          	"Id": 7,
+          	"Nimi": "Jääkaappipakastin",
+          	"Kategoria": "Suuret kodinkoneet",
+          	"Hinta": 399,
+          	"Paino": 20,
+          	"URL":"https://www.gigantti.fi/image/dv_web_D180001002231421/27453/whirlpool-jaeaekaappipakastin-w5711ew.?$digital220x220$"
+          	
+
+          },
+
+          {
+          	"Id": 8,
+          	"Nimi": "Arkkupakastin",
+          	"Kategoria": "Suuret kodinkoneet",
+          	"Hinta": 99.90,
+          	"Paino": 10,
+          	"URL":"https://www.gigantti.fi/image/dv_web_D18000100275245/WHS20102FO/whirlpool-arkkupakastin-whs20102fo.jpg?$prod_all4one$"
+          	
+
+          },
+
+          {
+          	"Id": 9,
+          	"Nimi": "Pyykinpesukone",
+          	"Kategoria": "Suuret kodinkoneet",
+          	"Hinta": 450,
+          	"Paino": 25,
+          	"URL":"https://www.gigantti.fi/image/dv_web_D180001002250840/26283/lg-pyykinpesukone-f4wm108n0w0.jpg?$digital220x220$"
+          	
+
+          },
+
+          {
+          	"Id": 10,
+          	"Nimi": "Astianpesukone",
+          	"Kategoria": "Suuret kodinkoneet",
+          	"Hinta": 600,
+          	"Paino": 15,
+          	"URL":"https://www.gigantti.fi/image/dv_web_D180001002235253/SMU88TW06S/bosch-series-8-astianpesukone-smu88tw06s-home-connect.?$prod_all4one$"
+          	
+
+          }
+]
+}
